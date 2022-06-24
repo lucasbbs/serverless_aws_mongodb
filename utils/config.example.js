@@ -1,0 +1,5 @@
+const MONGO_CONNECTION_STRING = '';
+
+const JWT_SECRET = '';
+
+module.exports = { MONGO_CONNECTION_STRING, JWT_SECRET };

@@ -1,0 +1,7 @@
+
+endpoints:
+  GET - https://p7yiiqo9y0.execute-api.us-east-1.amazonaws.com/dev/status
+  POST - https://p7yiiqo9y0.execute-api.us-east-1.amazonaws.com/dev/login
+  POST - https://p7yiiqo9y0.execute-api.us-east-1.amazonaws.com/dev/register
+functions:
+  hello: serverless-authV1-dev-hello (4.4 MB)
